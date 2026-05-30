@@ -1,0 +1,11 @@
+episode,demand_feedback,tariff_feedback
+1,"{'action': 'RETRAIN', 'reason': 'R² = 0.000 is below 0.6 threshold'}","{'action': 'MODERATE', 'reason': 'Revenue gain 95.9% is very high — may be overly aggressive'}"
+2,"{'action': 'RETRAIN', 'reason': 'R² = 0.000 is below 0.6 threshold'}","{'action': 'MODERATE', 'reason': 'Revenue gain 95.9% is very high — may be overly aggressive'}"
+3,"{'action': 'RETRAIN', 'reason': 'R² = 0.000 is below 0.6 threshold'}","{'action': 'MODERATE', 'reason': 'Revenue gain 95.9% is very high — may be overly aggressive'}"
+4,"{'action': 'RETRAIN', 'reason': 'R² = 0.000 is below 0.6 threshold'}","{'action': 'MODERATE', 'reason': 'Revenue gain 95.9% is very high — may be overly aggressive'}"
+5,"{'action': 'RETRAIN', 'reason': 'R² = 0.000 is below 0.6 threshold'}","{'action': 'MODERATE', 'reason': 'Revenue gain 95.9% is very high — may be overly aggressive'}"
+6,"{'action': 'RETRAIN', 'reason': 'R² = 0.000 is below 0.6 threshold'}","{'action': 'MODERATE', 'reason': 'Revenue gain 95.9% is very high — may be overly aggressive'}"
+7,"{'action': 'RETRAIN', 'reason': 'R² = 0.000 is below 0.6 threshold'}","{'action': 'MODERATE', 'reason': 'Revenue gain 95.9% is very high — may be overly aggressive'}"
+8,"{'action': 'RETRAIN', 'reason': 'R² = 0.000 is below 0.6 threshold'}","{'action': 'MODERATE', 'reason': 'Revenue gain 95.9% is very high — may be overly aggressive'}"
+9,"{'action': 'RETRAIN', 'reason': 'R² = 0.000 is below 0.6 threshold'}","{'action': 'MODERATE', 'reason': 'Revenue gain 95.9% is very high — may be overly aggressive'}"
+10,"{'action': 'RETRAIN', 'reason': 'R² = 0.000 is below 0.6 threshold'}","{'action': 'MODERATE', 'reason': 'Revenue gain 95.9% is very high — may be overly aggressive'}"

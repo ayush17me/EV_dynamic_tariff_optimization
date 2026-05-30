@@ -1,0 +1,2 @@
+baseline_revenue_INR,dynamic_revenue_INR,revenue_gain_pct,baseline_tariff,avg_dynamic_tariff,avg_util_before,avg_util_after,util_change_pct,off_peak_slots,off_peak_pct,avg_discount_pct,estimated_session_uplift_pct
+2025419.75,3970029.17,96.01,15.0,15.4,0.3306,0.3035,-8.19,109135,56.63,20.54,6.16

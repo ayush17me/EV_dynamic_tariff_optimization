@@ -1,0 +1,7 @@
+Finding,Pricing Implication,Agent Impact
+"Peak hours (8-12, 17-21) show 40-60% higher demand",Apply 1.1-1.5x surge multiplier during peak,Demand Agent: include hour_of_day as key feature
+Weekday demand > Weekend demand (workplace charging),Separate weekday/weekend tariff schedules,Demand Agent: is_weekend as binary feature
+~57% of slots have utilization < 30%,Offer 20-40% discount to attract off-peak usage,Tariff Agent: discount band for util < 0.3
+~8% of slots have utilization > 80%,Apply 30-100% surge to shift demand,Tariff Agent: surge band for util > 0.8
+Energy demand has strong 24h autocorrelation,Yesterday's demand predicts today's pricing needs,Demand Agent: demand_lag_24 as key feature
+High demand volatility during peak periods (CV > 80%),Wider pricing bands during volatile periods,Monitoring Agent: track prediction accuracy by period
